@@ -1,0 +1,22 @@
+{
+  "name": "deasync-promise",
+  "version": "1.0.0",
+  "description": "Transforms async functions into sync with promise API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jakwuh/deasync-promise.git"
+  },
+  "author": "jakwuh <jakwuh@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakwuh/deasync-promise/issues"
+  },
+  "homepage": "https://github.com/jakwuh/deasync-promise#readme",
+  "dependencies": {
+    "deasync": "^0.1.7"
+  }
+}
