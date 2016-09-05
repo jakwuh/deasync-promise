@@ -1,6 +1,6 @@
 {
   "name": "deasync-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transform async functions into sync with promise API",
   "main": "index.js",
   "scripts": {
