@@ -1,7 +1,7 @@
 {
   "name": "deasync-promise",
   "version": "1.0.0",
-  "description": "Transforms async functions into sync with promise API",
+  "description": "Transform async functions into sync with promise API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/jakwuh/deasync-promise#readme",
   "dependencies": {
     "deasync": "^0.1.7"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
   }
 }
